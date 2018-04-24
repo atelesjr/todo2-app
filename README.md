@@ -1,5 +1,5 @@
 # To Do app
-React Redux Fundamental course - app in React and Redux version
+React Redux Fundamental course - app only in React.
 
 *To Do - main screen*
 ![Main screen](/frontend/img/01.JPG "Main screen")
